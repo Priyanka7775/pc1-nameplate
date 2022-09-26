@@ -1,1 +1,22 @@
-/* Write CSS code here for nameplate-1 */
+nav{
+    border: 1px solid gray ;
+    background-color: rgb(80,80,80);
+}span{
+    float: left;
+    color: white;
+}li{
+    display: inline;
+}#contact{
+    float: right;
+    margin-right: 20px;
+}button{
+    background-color: lightskyblue;
+    border-radius: 15%;
+    border: 2px solid lightblue;
+}a{
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+}.list{
+    margin-left: 450px;
+}

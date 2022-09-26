@@ -1,1 +1,38 @@
-/* Write CSS code here */
+.size{
+    font-size: 70px;
+   
+   
+    float: left;
+   margin-right: 20px;
+}p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgba(70,70,70,0.7);
+}.body{
+    width: 30%;
+    background-color: #e4e4e4;
+}img{
+    width: 100%;
+ 
+}a{
+    text-decoration: none;
+    color: blueviolet;
+    margin-left: 15px;
+}div{
+    display: inline-flex;
+}#id{
+   float: right;
+    color: gray;
+ margin-right: 50px;
+}h3{
+    font-size: xx-large;
+   
+    margin-bottom: 3px;
+
+}h6{
+    margin-top: 3px;
+    color: rgba(70,70,70,0.7);
+    font-size: medium;
+   
+}#icon1{
+    margin-right: 20px;
+}
